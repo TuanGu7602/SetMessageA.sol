@@ -7,3 +7,4 @@ contract SetMessageA {
     string public message;
     function setA() public { message = "A"; }
 }
+Implement message storage logic
