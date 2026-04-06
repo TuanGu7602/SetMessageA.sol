@@ -8,3 +8,4 @@ contract SetMessageA {
     function setA() public { message = "A"; }
 }
 Implement message storage logic
+Add event for tracking changes
