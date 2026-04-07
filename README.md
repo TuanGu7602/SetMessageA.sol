@@ -9,3 +9,4 @@ contract SetMessageA {
 }
 Implement message storage logic
 Add event for tracking changes
+Add missing require statement
