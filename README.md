@@ -11,3 +11,4 @@ Implement message storage logic
 Add event for tracking changes
 Add missing require statement
 Fix contract deployment issue
+Improve variable naming
